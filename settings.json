@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "queTheBird.aternos.me:52454",
+    "ip": "queTheBird.aternos.me",
     "port": 52454,
     "version": "",
     "try-creative": false
